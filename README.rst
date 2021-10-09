@@ -1,4 +1,4 @@
-Spiking-Neural-Networks-Tutorials
+Spiking Neural Networks Tutorials
 -----------------------------------
 
 Interactive Tutorials on Training Spiking Neural Network Using Backpropagation based on `snnTorch <https://github.com/jeshraghian/snntorch>`_
